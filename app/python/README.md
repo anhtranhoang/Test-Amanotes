@@ -1,0 +1,2 @@
+- EDA_data.ipynb : file notebook to run the my 
+- algorithms.ipynb : file notebook to run the training pipeline I have described in Algorithms FLow Figure
